@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qiplus1.github.io/QIplus1/sitemap.xml
